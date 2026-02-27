@@ -162,5 +162,4 @@ This project builds that engineering mindset.
 * Groq for fast LLM inference
 * LiteLLM for model abstraction
 * Open-source community
-
-Just tell me what you want next 😌
+---
